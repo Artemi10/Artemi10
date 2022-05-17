@@ -48,3 +48,12 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=for-the-badge"/>
 </p>
 
+### Contact me!
+
+- I am open for collaboration, so if you are interested in my work, feel free to contact me.
+
+<p>
+    <a href="mailto: lyah.artem10@mail.ru">
+         <img alt="Email" src="https://img.shields.io/badge/Email-005FF9?logo=mail.ru&logoColor=white&style=for-the-badge"/>
+    </a>
+</p>
