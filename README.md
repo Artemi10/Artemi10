@@ -56,4 +56,10 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <a href="mailto: lyah.artem10@mail.ru">
          <img alt="Email" src="https://img.shields.io/badge/Email-005FF9?logo=mail.ru&logoColor=white&style=for-the-badge"/>
     </a>
+    <a href="https://vk.com/devanmejia">
+         <img alt="VK" src="https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://t.me/devanmejia">
+         <img alt="Telegram" src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge"/>
+    </a>
 </p>
