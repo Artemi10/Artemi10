@@ -2,11 +2,11 @@
 
 ![Avatar](avatar.gif "Avatar")
 
-Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Lyakh. I am a backend developer from Krasnodar, Russia. In my repositories you can find a lot of interesting projects.
+- Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Lyakh. I am a backend developer from Krasnodar, Russia. In my repositories you can find a lot of interesting projects.
 
-### What do I do?
+# What do I do?
 
-# Languages:
+### Languages:
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
@@ -14,7 +14,7 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typeScript&logoColor=white&style=for-the-badge"/>
 </p>
 
-- Back-end:
+### Back-end:
 
 <p>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
@@ -24,7 +24,7 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?logo=Junit5&logoColor=white&style=for-the-badge"/>
 </p>
 
-- Front-end:
+### Front-end:
 
 <p>
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"/>
@@ -33,7 +33,7 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <img alt="BootStrap" src="https://img.shields.io/badge/BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
 </p>
 
-- Databases:
+### Databases:
 
 <p>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge"/>
@@ -42,7 +42,7 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?logo=Flyway&logoColor=white&style=for-the-badge"/>
 </p>
 
-- Others:
+### Others:
 
 <p>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
@@ -50,13 +50,13 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=for-the-badge"/>
 </p>
 
-- Codewars Profile:
+### Codewars Profile:
 
 <p>
     <img alt="Codewars" src="https://www.codewars.com/users/Artemi10/badges/large"/>
 </p> 
 
-### Contact me!
+# Contact me!
 
 - I am open for collaboration, so if you are interested in my work, feel free to contact me.
 
