@@ -6,7 +6,7 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
 
 ### What do I do?
 
-- Languages:
+# Languages:
 
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
