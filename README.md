@@ -50,6 +50,12 @@ Hi there 👋 🧑‍💻 and welcome to my github account. My name is Artemi Ly
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&style=for-the-badge"/>
 </p>
 
+- Codewars Profile:
+
+<p>
+    <img alt="Codewars" src="https://www.codewars.com/users/Artemi10/badges/large"/>
+</p> 
+
 ### Contact me!
 
 - I am open for collaboration, so if you are interested in my work, feel free to contact me.
